@@ -7,7 +7,7 @@ The SB-Components GPS ZED-F9R is the next iteration of u-blox's GPS offerings! T
 
 ## Documentation
 
-* [GPS RTK HAT Hardware](https://github.com/sbcshop/GPS_RTK_Breakout_Hardware)
+* [GPS RTK HAT Hardware](https://github.com/sbcshop/GPS_RTK_HAT_Hardware)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
