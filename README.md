@@ -23,11 +23,9 @@ Just like the breakout board, there are four LEDs on the bottom left of the boar
 
 * ***GF:*** The GEO LED can be configured to turn on/off for geofencing applications.
 
-
-
-
 ## USB
 To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable to the connector. Keep in mind that the power pin is not connected to the USB-C connector. You will need to draw power from the qwiic connector or the Pi's 2x20 header pins.
+
 
 ## Steps to Setup With Pi:
 
@@ -41,6 +39,20 @@ git clone https://github.com/sbcshop/GPS_RTK_HAT_Software.git
 ```
 
 **Step.4 -** After downloading this repository in your Pi board, you can run any of examples provided in this repository. Make sure before running any example code, move it out of ***Examples folder*** and then open it to run.
+
+
+## Using GPS RTK HAT Via USB:
+
+For using this HAT with USB cable you have to install the USB driver and a Software Application of ublox. For this you can visit the links below, [USB Driver](https://deviceinbox.com/drivers/1870-u-blox-gnss-standard-usb-driver.html) [Software Application ](https://www.u-blox.com/en/product/u-center) and we have also provided it in this repository. After making these setup follow the steps below:
+
+**Step.1 -** After intalling the above mentioned software, plugin your GPS RTK HAT to your system via USB Type-C cable and check for the available COM port. As shon in below image
+
+<img src ="" />
+
+**Step.2 -** Now,
+
+
+
 
 
 
