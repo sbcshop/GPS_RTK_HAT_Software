@@ -29,9 +29,11 @@ Just like the breakout board, there are four LEDs on the bottom left of the boar
 ## USB
 To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable to the connector. Keep in mind that the power pin is not connected to the USB-C connector. You will need to draw power from the qwiic connector or the Pi's 2x20 header pins.
 
-## Setup With Pi:
+## Steps to Setup With Pi:
 
+**Step.1 - **To start working with our GPS RTK HAT with Rasberry pi/Rock pi, you to setup your pi board to boot by uploading lates OS of it.
 
+**Step.2 - ** After that, attach the GPS RTK HAT on your Pi board and power it by providing suitable power supply. 
 
 
 
