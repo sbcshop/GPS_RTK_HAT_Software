@@ -21,7 +21,7 @@ Just like the breakout board, there are four LEDs on the bottom left of the boar
 
 * ***RTK:*** The RTK LED will be illuminated constantly upon power-up. Once RTCM data has been successfully received it will begin to blink. This is a good way to see if the ZED-F9R is getting RTCM from various sources. Once an RTK fix is obtained, the LED will turn off.
 
-* ***GEO:*** The GEO LED can be configured to turn on/off for geofencing applications.
+* ***GF:*** The GEO LED can be configured to turn on/off for geofencing applications.
 
 
 
