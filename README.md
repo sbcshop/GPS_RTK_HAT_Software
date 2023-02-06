@@ -31,9 +31,9 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 
 ## Steps to Setup With Pi:
 
-**Step.1 - ** To start working with our GPS RTK HAT with Rasberry pi/Rock pi, you to setup your pi board to boot by uploading lates OS of it.
+**Step.1 -** To start working with our GPS RTK HAT with Rasberry pi/Rock pi, you to setup your pi board to boot by uploading lates OS of it.
 
-**Step.2 - ** After that, attach the GPS RTK HAT on your Pi board and power it by providing suitable power supply. 
+**Step.2 -** After that, attach the GPS RTK HAT on your Pi board and power it by providing suitable power supply. 
 
 
 
