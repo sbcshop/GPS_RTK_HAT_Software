@@ -37,12 +37,10 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 
 **Step.3 -** Once your Pi is booted, open command line and type the below command to clone this repository:
 ```
-git clone .git
+git clone https://github.com/sbcshop/GPS_RTK_HAT_Software.git
 ```
 
 **Step.4 -** After downloading this repository in your Pi board, you can run any of examples provided in this repository. Make sure before running any example code, move it out of ***Examples folder*** and then open it to run.
-
-
 
 
 
