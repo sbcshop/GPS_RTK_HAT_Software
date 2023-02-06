@@ -46,20 +46,13 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 * [Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
 * [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
+
 ## Related Products
 
-* [RFID HAT for RaspberryPi](https://shop.sb-components.co.uk/products/rfid-hat-for-raspberry-pi?_pos=3&_sid=59f725ea2&_ss=r)
+* [GPS HAT](https://shop.sb-components.co.uk/products/gps-hat-for-raspberry-pi?_pos=1&_sid=c0a565487&_ss=r)
 
- ![RFID HAT for RaspberryPi](https://cdn.shopify.com/s/files/1/1217/2104/products/RFIDforPi.jpg?v=1614587676&width=400)
+ ![GPS HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/GPSHATforRaspberryPi_4.png?v=1648553361&width=400)
 
-* [RaspberryPi Pico RFID Expansion](https://shop.sb-components.co.uk/products/raspberry-pi-pico-rfid-expansion?_pos=3&_sid=075681430&_ss=r)
-
- ![RaspberryPi Pico RFID Expansion](https://cdn.shopify.com/s/files/1/1217/2104/products/2_85a5dfb2-96cb-4e0b-ba28-a70af127a4f1.png?v=1613732653&width=400)
- 
-* [UHF HAT For Raspberry-Pi](https://shop.sb-components.co.uk/products/uhf-hat-for-raspberry-pi?_pos=1&_sid=4a8407538&_ss=r)
-
- ![UHF HAT For Rpi](https://cdn.shopify.com/s/files/1/1217/2104/products/UHFHATForRaspberryPi.png?v=1648192425&width=400)
-  
 ## Product License
 
 This is ***open source*** product. Kindly check LICENSE.md file for more information.
