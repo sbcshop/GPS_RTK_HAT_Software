@@ -47,9 +47,9 @@ For using this HAT with USB cable you have to install the USB driver and a Softw
 
 **Step.1 -** After intalling the above mentioned software, plugin your GPS RTK HAT to your system via USB Type-C cable and check for the available COM port. As shon in below image
 
-<img src ="" />
+<img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/Scr1.png" />
 
-**Step.2 -** Now,
+**Step.2 -** Now, 
 
 
 
