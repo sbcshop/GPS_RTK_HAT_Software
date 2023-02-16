@@ -65,10 +65,10 @@ For using this HAT with USB cable you have to install the USB driver and a Softw
 <img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img.JPG" />
 
 
-## NMEA Protocol
+### NMEA Protocol
 https://github.com/sbcshop/GPS_RTK_HAT_Hardware/blob/main/NMEA%20Protocol%20Manual.pdf
 
-## Ublox ZED-F9P Integration Manual
+### Ublox ZED-F9P Integration Manual
 https://github.com/sbcshop/GPS_RTK_HAT_Hardware/blob/main/Ublox%20ZED-F9P_Integration_Manual.pdf
 
 
