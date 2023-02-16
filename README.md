@@ -2,11 +2,11 @@
 
 This ZED-F9P-based Raspberry Pi GNSS HAT provides centimeter-level accuracy in seconds. It offers features such as: multi-band RTK with quick convergence times, a high update rate, support for moving base RTK mode, simultaneous reception of four GNSS systems, support for augment positioning systems, accurate & quick positioning with minimal drifting, and exceptional anti-spoofing & anti-jamming capabilities.
 
+<img src = "https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img1.png"/>
+
 It can pinpoint your location, your direction, and your path to any place on Earth in less than 30 seconds. Hence, the higher the accuracy, the better! Since GPS Real Time Kinematics (RTK) has mastered fine-tuning its GPS modules' accuracy to only millimetres, we had to incorporate it on this board!
 
 High-precision GPS was improved by SB Components' GPS-RTK HAT. It has the most latest ZED-F9P module from u-blox, which provides 10mm of 3-dimensional precision. These boards can create X, Y, and Z locations that are about the width of your fingernail. You read that correctly. A stream of correction data from an RTCM source and a strong antenna are both necessary for high accuracy GPS.
-
-<img src = "https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img1.png"/>
 
 ## Hardware Overview
 
