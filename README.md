@@ -25,6 +25,11 @@ Just like the breakout board, there are four LEDs on the bottom left of the boar
 ## USB
 To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable to the connector. Keep in mind that the power pin is not connected to the USB-C connector. You will need to draw power from the qwiic connector or the Pi's 2x20 header pins.
 
+## Features
+* Horizontal Position Accuracy:
+     2.5m without RTK
+     0.010m with RTK
+* Concurrent reception of GPS, GLONASS, Galileo and BeiDou
 
 ## Steps to Setup With Pi:
 
