@@ -48,6 +48,9 @@ git clone https://github.com/sbcshop/GPS_RTK_HAT_Software.git
 
 **Step.4 -** After downloading this repository in your Pi board, you can run any of examples provided in this repository.
 * https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/geo_coords.py
+* https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/date_time.py
+* https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/nmea_stream.py
+* https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/lcd_coordnates.py
 
 ## Using GPS RTK HAT Via USB:
 
