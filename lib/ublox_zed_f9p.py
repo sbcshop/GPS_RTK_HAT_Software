@@ -27,10 +27,6 @@ class Ublox_F9P(object):
         self.mon_ms= {'COMMS':0x36,  'GNSS':0x28,  'HW3':0x37,'PIO':0x24,'PT2':0x2b,'RF':0x38,'RXR':0x21,'SPT':0x2f}
         self.nav_ms= {'ATT':0x05,'PVT':0x07,'SAT':0x35}
 
-
-    '''
-    Sends a ublox message to the ublox module.
-    '''
     def send_data(self, ubx_class, ubx_id, gps_payload = None):
         CHAR1 = 0xB5
         CHAR2 = 0x62
