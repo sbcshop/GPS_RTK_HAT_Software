@@ -68,6 +68,7 @@ For using this HAT with USB cable you have to install the USB driver and a Softw
 
 **Step.2 -** Ublox begins to receive data from numerous satellites from different country as soon as you connect to the correct port, as seen in the figure below.
 <img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img.JPG" />
+<img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img3.JPG" />
 
 
 ### NMEA Protocol
