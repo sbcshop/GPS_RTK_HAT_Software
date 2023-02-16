@@ -8,11 +8,11 @@ High-precision GPS was improved by SB Components' GPS-RTK HAT. It has the most l
 
 Specifications Image(.jpg)
 
-### Battery
+#### Battery
 Just like the breakout board, the small metal disk just to the right of the ZED-F9R module is a small lithium battery. This battery does not provide power to the IC as the 3.3V system does, but to relevant systems inside the IC that allow for a quick reconnection to satellites. The time to first fix will be about ~26 seconds, but after it has a lock, that battery will allow for a two-second time to first fix. This is known as a hot start and lasts for four hours after the board is powered down. The battery provides over a year's worth of power to the backup system and charges slowly when the board is powered. To charge it to full, leave your module plugged in for 48 hours.
 
 
-### LED’s
+#### LED’s
 Just like the breakout board, there are four LEDs on the bottom left of the board. Starting from the left:
 
 * ***PWR:*** The power LED labeled as PWR will illuminate when 3.3V is activated.
@@ -22,7 +22,7 @@ Just like the breakout board, there are four LEDs on the bottom left of the boar
 
 * ***GF:*** The GEO LED can be configured to turn on/off for geofencing applications.
 
-### USB
+#### USB
 To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable to the connector. Keep in mind that the power pin is not connected to the USB-C connector. You will need to draw power from the qwiic connector or the Pi's 2x20 header pins.
 
 ## Features
