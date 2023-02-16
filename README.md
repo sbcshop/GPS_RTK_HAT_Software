@@ -50,7 +50,7 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 git clone https://github.com/sbcshop/GPS_RTK_HAT_Software.git
 ```
 
-**Step.4 -** After downloading this repository in your Pi board, you can run any of examples provided in this repository.
+**Step.4 -** You can execute any of the examples included in this repository after downloading it to your Raspberry Pi board.
 * https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/geo_coords.py
 * https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/date_time.py
 * https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/nmea_stream.py
