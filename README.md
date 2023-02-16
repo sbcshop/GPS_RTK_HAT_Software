@@ -9,7 +9,7 @@ High-precision GPS was improved by SB Components' GPS-RTK HAT. It has the most l
 Specifications Image(.jpg)
 
 #### Battery
-Just like the breakout board, the small metal disk just to the right of the ZED-F9R module is a small lithium battery. This battery does not provide power to the IC as the 3.3V system does, but to relevant systems inside the IC that allow for a quick reconnection to satellites. The time to first fix will be about ~26 seconds, but after it has a lock, that battery will allow for a two-second time to first fix. This is known as a hot start and lasts for four hours after the board is powered down. The battery provides over a year's worth of power to the backup system and charges slowly when the board is powered. To charge it to full, leave your module plugged in for 48 hours.
+A small lithium battery can be seen in the little metal disc immediately to the right of the ZED-F9R module, precisely like the breakout board. The key mechanisms inside the IC that enable a speedy reconnection to satellites are powered by this battery rather than the IC itself, as the 3.3V system does. When it has a lock, the battery will allow for a two-second time to first fix, however the time to first repair will be around 26 seconds. This is referred to as a "hot start," and it continues for four hours after the board is turned off. While the board is powered, the battery steadily charges and may run the backup system for more than a year. Let your module sit for a complete charge.
 
 
 #### LED’s
