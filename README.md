@@ -27,8 +27,8 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 
 ## Features
 * Horizontal Position Accuracy:
-     2.5m without RTK
-     0.010m with RTK
+     * 2.5m without RTK
+     * 0.010m with RTK
 * Concurrent reception of GPS, GLONASS, Galileo and BeiDou
 
 ## Steps to Setup With Pi:
