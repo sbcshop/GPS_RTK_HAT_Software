@@ -79,7 +79,7 @@ https://github.com/sbcshop/GPS_RTK_HAT_Hardware/blob/main/Ublox%20ZED-F9P_Integr
 
 
 ## Documentation
-
+* [ZED-F9P Datasheet](https://github.com/sbcshop/GPS_RTK_HAT_Hardware/blob/main/Documents/ZED-F9P_DataSheet.pdf)
 * [GPS RTK HAT Hardware](https://github.com/sbcshop/GPS_RTK_HAT_Hardware)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
