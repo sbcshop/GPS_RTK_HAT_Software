@@ -1,8 +1,10 @@
 # GPS RTK HAT 
 
-Using  GPS RTK HAT, you can pinpoint your location, your direction, and your path to any place on Earth in less than 30 seconds. Hence, the higher the accuracy, the better! Since GPS Real Time Kinematics (RTK) has mastered fine-tuning its GPS modules' accuracy to only millimetres, we had to incorporate it on this board!
+GPS RTK HAT, you can pinpoint your location, your direction, and your path to any place on Earth in less than 30 seconds. Hence, the higher the accuracy, the better! Since GPS Real Time Kinematics (RTK) has mastered fine-tuning its GPS modules' accuracy to only millimetres, we had to incorporate it on this board!
 
 High-precision GPS was improved by SB Components' GPS-RTK HAT. It has the most latest ZED-F9P module from u-blox, which provides 10mm of 3-dimensional precision. These boards can create X, Y, and Z locations that are about the width of your fingernail. You read that correctly. A stream of correction data from an RTCM source and a strong antenna are both necessary for high accuracy GPS.
+
+<img src = "https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img1.png"/>
 
 ## Hardware Overview
 
