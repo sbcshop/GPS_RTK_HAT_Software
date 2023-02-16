@@ -59,8 +59,10 @@ For using this HAT with USB cable you have to install the USB driver and a Softw
 **Step.1 -** After intalling the above mentioned software, plugin your GPS RTK HAT to your system via USB Type-C cable and check for the available COM port. As shon in below image
 
 <img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/Scr2.png" />
+<img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/Scr1.png" />
 
 **Step.2 -** Ublox begins to receive data from numerous satellites as soon as you connect to the correct port, as seen in the figure below.
+<img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img.JPG" />
 
 
 
