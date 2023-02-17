@@ -67,6 +67,7 @@ git clone https://github.com/sbcshop/GPS_RTK_HAT_Software.git
  
 For using this HAT with USB cable you have to install the USB driver and a Software Application of ublox(U Center). For this you can visit the links below, 
 [**Download USB Driver**](https://deviceinbox.com/drivers/1870-u-blox-gnss-standard-usb-driver.html)
+
 [**Download Software Application**](https://www.u-blox.com/en/product/u-center) and we have also provided it in this repository. After making these setup follow the steps below:
 
 #### To learn how to use U Center application, click here.
