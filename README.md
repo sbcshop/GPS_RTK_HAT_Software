@@ -26,6 +26,13 @@ Just like the breakout board, there are four LEDs on the bottom left of the boar
 
 * ***GF:*** The GEO LED can be configured to turn on/off for geofencing applications.
 
+FENCE: A led indication for a geofence. U-Center configuration. will change when a geofence is set up, going high or low. When the module leaves a preset boundary, it may be used to start alerts and do other actions.
+
+PPS: a pulse-per-second led indicator. When receiving a basic GPS/GNSS location lock, the module starts flashing at 1Hz.
+
+RTK: A real-time kinematic led indicator. when the gadget is operating in standard GPS mode, it stays high. blinking starts when the module enters RTK float mode after receiving RTCM adjustments. When the module switches to RTK fixed mode and starts to output locations with a precision of a cm, it drops.
+
+
 #### USB
 To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable to the connector.
 
