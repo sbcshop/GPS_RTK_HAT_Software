@@ -21,14 +21,9 @@ Just like the breakout board, there are four LEDs on the bottom left of the boar
 
 * ***PWR:*** The power LED labeled as PWR will illuminate when 3.3V is activated.
 * ***PPS:*** pulse-per-second led indicator. When receiving a basic GPS/GNSS location lock, the module starts flashing at 1Hz.
-* ***RTK:*** The RTK LED will be illuminated constantly upon power-up. Once RTCM data has been successfully received it will begin to blink. This is a good way to see if the ZED-F9R is getting RTCM from various sources. Once an RTK fix is obtained, the LED will turn off.
-* ***GF:*** TA led indication for a geofence. U-Center configuration. will change when a geofence is set up, going high or low. When the module leaves a preset boundary, it may be used to start alerts and do other actions.
+* ***RTK:*** A real-time kinematic led indicator. when the gadget is operating in standard GPS mode, it stays high. blinking starts when the module enters RTK float                mode after receiving RTCM adjustments. When the module switches to RTK fixed mode and starts to output locations with a precision of a cm, it drops.
+* ***GF:*** TA led indication for a geofence. U-Center configuration. will change when a geofence is set up, going high or low. When the module leaves a preset                     boundary, it may be used to start alerts and do other actions.
 
-
-
-PPS: a pulse-per-second led indicator. When receiving a basic GPS/GNSS location lock, the module starts flashing at 1Hz.
-
-RTK: A real-time kinematic led indicator. when the gadget is operating in standard GPS mode, it stays high. blinking starts when the module enters RTK float mode after receiving RTCM adjustments. When the module switches to RTK fixed mode and starts to output locations with a precision of a cm, it drops.
 
 
 #### USB
