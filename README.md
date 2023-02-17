@@ -8,6 +8,8 @@ It can pinpoint your location, your direction, and your path to any place on Ear
 
 High-precision GPS was improved by SB Components' GPS-RTK HAT. It has the most latest ZED-F9P module from u-blox, which provides 10mm of 3-dimensional precision. These boards can create X, Y, and Z locations that are about the width of your fingernail. You read that correctly. A stream of correction data from an RTCM source and a strong antenna are both necessary for high accuracy GPS.
 
+<img src = "https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/GPS%20RTK%20PIN.png"/>
+
 ## Hardware Overview
 #### Battery
 A small lithium battery can be seen in the little metal disc immediately to the right of the ZED-F9R module, precisely like the breakout board. The key mechanisms inside the IC that enable a speedy reconnection to satellites are powered by this battery rather than the IC itself, as the 3.3V system does. When it has a lock, the battery will allow for a two-second time to first fix, however the time to first repair will be around 26 seconds. This is referred to as a "hot start," and it continues for four hours after the board is turned off. While the board is powered, the battery steadily charges and may run the backup system for more than a year. Let your module sit for a complete charge.
