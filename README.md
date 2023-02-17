@@ -33,10 +33,13 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 * Horizontal Position Accuracy:
      * 2.5m without RTK
      * 0.010m with RTK
-* Concurrent reception of GPS, GLONASS, Galileo and BeiDou
+* Enables simultaneous reception of four GNSS constellations (GPS, BeiDou, Galileo, and GLONASS) while being power efficient.
 * Max Velocity: 500m/s 
 * Max Altitude: 50km
 * It receives both L1C/A and L2C bands
+* 4 LEDs for displaying the module's status.
+* Supports U-Center, a simple method of configuring the module.
+* RTK has several bands, quick convergence times, centimeter-level precision, and a high update rate.
 * Current: 68mA - 130mA (varies with constellations and tracking state)
 ## Communication Protocol
 * UART 
