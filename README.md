@@ -38,7 +38,13 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 * Max Altitude: 50km
 * It receives both L1C/A and L2C bands
 * Current: 68mA - 130mA (varies with constellations and tracking state)
-
+## Communication Protocol
+* UART 
+   * The ZED-F9P has traditional serial pins. The UART(RX/TX) pins are activated by default. Make that the UART/SPI jumper is open on top of the board. 
+   * The ZED-F9P has a second serial port UART2(TX2/RX2) that is mostly utilised for RTCM3 correction data. This port's default behaviour is to automatically accept        and interpret incoming RTCM3 strings, enabling the board's RTK mode.
+* I2C 
+   *  By default, the I2C pins are enabled.
+   
 ## Steps to Setup With Pi:
 
 **Step.1 -** To start working with our GPS RTK HAT with Rasberry pi/Rock pi, you to setup your pi board to boot by uploading lates OS of it.
