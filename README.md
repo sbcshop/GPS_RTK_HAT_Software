@@ -107,6 +107,10 @@ For using this HAT with USB cable you have to install the USB driver and a Softw
 
 ## Related Products
 
+* [GPS RTK HAT BREAKOUT](https://shop.sb-components.co.uk/products/gps-rtk-hat-gps-rtk-hat-with-high-precision-rtk-gps-location-at-the-cm-level)
+
+ ![GPS RTK HAT BREAKOUT](https://cdn.shopify.com/s/files/1/1217/2104/products/03_32836ef3-a3d3-4039-bbd2-14d97fb53879.png?v=1675245485&width=700)
+ 
 * [GPS HAT](https://shop.sb-components.co.uk/products/gps-hat-for-raspberry-pi?_pos=1&_sid=c0a565487&_ss=r)
 
  ![GPS HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/GPSHATforRaspberryPi_4.png?v=1648553361&width=400)
