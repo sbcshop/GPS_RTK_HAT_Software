@@ -30,8 +30,9 @@
 #From here we call dateTime() and to get gps time.
 
 import serial
-
-from lib import ublox_zed_f9p
+import sys
+sys.path.insert(0,'/home/pi/GPS_RTK_HAT_Software-main/GPS_RTK_HAT_Software-main/lib')# Make sure use your library path here
+import ublox_zed_f9p
 
 ser = serial.Serial('/dev/ttyS0', baudrate=38400, timeout=1)
 gps = ublox_zed_f9p.Ublox_F9P(ser)
@@ -49,5 +50,3 @@ try:
 
 finally:
         ser.close()
-
-
