@@ -57,8 +57,20 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 ```
 git clone https://github.com/sbcshop/GPS_RTK_HAT_Software.git
 ```
+**Step.4 -** Enable UART In Raspberry Pi
 
-**Step.4 -** You can execute any of the examples included in this repository after downloading it to your Raspberry Pi board.
+```sudo raspi-config```
+
+Follow below steps:
+
+<img src ="https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/UART1.png"/>
+<img src ="https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/UART2.png"/>
+<img src ="https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/UART3.png"/>
+<img src ="https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/UART4.png"/>
+
+Then, reboot the Raspberry Pi
+
+**Step.5 -** You can execute any of the examples included in this repository after downloading it to your Raspberry Pi board.
 * https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/geo_coords.py
 * https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/date_time.py
 * https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/Examples/nmea_stream.py
