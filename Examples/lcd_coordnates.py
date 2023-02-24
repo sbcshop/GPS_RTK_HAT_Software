@@ -34,9 +34,9 @@
 import sys
 import serial
 import spidev as SPI
-sys.path.insert(0,'/home/pi/GPS_RTK_HAT_Software-main/GPS_RTK_HAT_Software-main/lib')# Make sure use your library path here
-
-import lcdLib_1inch14
+sys.path.append("..")
+from lib import ublox_zed_f9p
+from lib import lcdLib_1inch14
 from PIL import Image,ImageDraw,ImageFont
 
 import RPi.GPIO as GPIO
@@ -45,22 +45,20 @@ import time
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 
-import ublox_zed_f9p
-
 ser = serial.Serial('/dev/serial0', baudrate=38400, timeout=1)
 gps = ublox_zed_f9p.Ublox_F9P(ser)
 
 
-Font1 = ImageFont.truetype("/home/pi/GPS_RTK_HAT_Software-main/GPS_RTK_HAT_Software-main/Font/Arial_Black_Regular.ttf",15)# Make sure use your library path here
-Font2 = ImageFont.truetype("/home/pi/GPS_RTK_HAT_Software-main/GPS_RTK_HAT_Software-main/Font/Arial_Black_Regular.ttf",25)# Make sure use your library path here
-Font3 = ImageFont.truetype("/home/pi/GPS_RTK_HAT_Software-main/GPS_RTK_HAT_Software-main/Font/Font02.ttf",25)# Make sure use your library path here
+Font1 = ImageFont.truetype("../Font/Arial_Black_Regular.ttf",15)# Make sure use your library path here
+Font2 = ImageFont.truetype("../Font/Arial_Black_Regular.ttf",25)# Make sure use your library path here
+Font3 = ImageFont.truetype("../Font02.ttf",25)# Make sure use your library path here
     
 
 disp = lcdLib_1inch14.lcd()
 disp.Init()
 image2 = Image.new("RGB", (disp.width, disp.height), "WHITE")
 
-image = Image.open('/home/pi/GPS_RTK_HAT_Software-main/GPS_RTK_HAT_Software-main/pic/img.jpg')# Make sure use your library path here
+image = Image.open('../pic/img.jpg')# Make sure use your library path here
 disp.Display_image(image)
 
 time.sleep(2)
