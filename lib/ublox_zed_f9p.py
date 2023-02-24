@@ -7,7 +7,7 @@ import struct
 import serial
 
 from . import ublox_predefine as sp
-from .import core
+from . import core
 
 
 _MODULE_I2C_ADD = [0x42]
