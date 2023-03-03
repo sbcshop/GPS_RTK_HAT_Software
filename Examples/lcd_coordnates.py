@@ -51,7 +51,7 @@ gps = ublox_zed_f9p.Ublox_F9P(ser)
 
 Font1 = ImageFont.truetype("../Font/Arial_Black_Regular.ttf",15)# Make sure use your library path here
 Font2 = ImageFont.truetype("../Font/Arial_Black_Regular.ttf",25)# Make sure use your library path here
-Font3 = ImageFont.truetype("../Font02.ttf",25)# Make sure use your library path here
+Font3 = ImageFont.truetype("../Font/Font02.ttf",25)# Make sure use your library path here
     
 
 disp = lcdLib_1inch14.lcd()
