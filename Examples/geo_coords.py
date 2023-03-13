@@ -48,8 +48,7 @@ try:
          print("Longitude: ", coordinate.lon) 
          print("height: ", coordinate.height)
          print("Heading of Motion: ", coordinate.head_motion)
-         print("Heading of
-               Acceleration: ", coordinate.headAcc)
+         print("Heading ofAcceleration: ", coordinate.headAcc)
          print("\n")
         except (ValueError, IOError) as error:
                 print(error)
